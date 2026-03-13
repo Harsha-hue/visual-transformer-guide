@@ -84,9 +84,9 @@ index.html
 
 # 📸 Preview
 
-
-
----
+<p align="center">
+  <img src="Screenshot 2026-03-13 201914.png" width="900">
+</p>
 
 # 🎯 Perfect For
 
